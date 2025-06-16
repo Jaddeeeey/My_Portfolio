@@ -1,5 +1,3 @@
-import React from 'react';
-import { motion } from 'framer-motion';
 import profileImage from '../assets/hero-bg22.png'; // Adjust path as needed
 
 const AboutSection = () => {
